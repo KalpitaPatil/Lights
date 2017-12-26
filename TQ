@@ -1,0 +1,40 @@
+
+    Difference between tMap and tJoin component in Talend .
+    Difference between tAggregaterow and tAggregatesortedrow.
+    Difference between tJava,tJavarow,tJavaflex.
+    Difference Between OnSubJobOk and OnComponentOk?
+    How to improve the performance of Talend job having complex design?
+    Difference between built in schema and Repository.
+    What is the declaration of method which we define in system routine?
+    What is XMS and XMX parameter in Talend?
+    How to resolve heap space issue in Talend ?
+    How to do the exception handling in Talend?
+    What is Default join for tMap.
+    What are the different lookup patterns available with Talend?
+    What is the basic requirement while updating the perticular table?
+    How to generate surrogate key by using Talend?
+    What is the use of Expression editor in Talend?
+    How to debug a particular Talend job.
+    What is context variable and context group?
+    How to pass the variables from parent job to child job and from child job to Parent?
+    How to forcefully exit the job.
+    Explain the use of tContextload.
+    How to execute multiple queries by using Talend?
+    How to do the multithreading while executing the Job?
+    What is hashmap in Talend and how to use it?
+    How to do the full join in Talend. Explain the steps.
+    How to do the right outer join in Talend? Explain the steps?
+    How the ELT database components are differ from ETL database Components.
+    How to use the external libraries in Talend?
+    How to pass data from parent job to child jobs through tRunjob component ?
+    How to load context variables dynamically?
+    How to Share DB Connection in Talend?
+    Skip Header rows and footer rows before load.
+    What is Incremental Load? Describe using Talend.
+    How to call stored procedure and function in Talend Job
+    How to use multiple If-Then-Else in tMap
+    How to convert rows to column
+    Implement Excel like Transpose in Talend
+    How to Split Large XML into multiple XML`s
+    How to Validate data in Talend.
+    How to Validate CSV Headers

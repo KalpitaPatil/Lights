@@ -1,0 +1,39 @@
+module-4 topics:
+
+tmap capabilities -
+ > column transformations (numerical,string,date calculations, conditional data processing, etc)   [tJavaRow]
+ > join (>=2 sources) [tJoin]
+ > filter (input/output filters) [tFilterRow]
+ > rejects
+
+
+tjoin
+
+
+tfilterrow
+tfiltercolumn
+
+tuniquerow
+
+tsortrow
+
+taggregaterow
+
+treplicate
+
+trowgenerator
+
+-- -- -- -- 
+
+tjava
+tjavarow
+
+-- -- -- -- 
+
+module-4 assgmt : try to find a transformation component for union operation.
+
+SQL Query Feature => Talend Component Equivalent
+union => tUnite
+where clause => tfilterrow
+order by => tsortrow
+group by => taggregaterow

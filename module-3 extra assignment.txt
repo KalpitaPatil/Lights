@@ -1,0 +1,15 @@
+-- module-3 additional assignment:
+
+1. Read from delimited file & load into table. Then change some field data in the delimited file & use insert-update in table. View data into table now.
+> Read Employee data from delimited file (& show into console using tLogrow).
+> Read Employee data from delimited file, & write into mysql database table.
+
+-- -- -- -- 
+
+2. Try following while reading from and writing into Excel Files:
+	- y pos
+	- reading multiple sheets selectively, reading all sheets
+	- writing multiple sheets in one excel
+	
+-- -- -- -- 
+
